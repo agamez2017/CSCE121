@@ -1,7 +1,6 @@
 #include <iostream>
-//Adrian Gamez-Rodriguez 
-//UIN: 126009409
-//Solving question 4 and 5. 
+
+
 using namespace std;
 int main()
 {
