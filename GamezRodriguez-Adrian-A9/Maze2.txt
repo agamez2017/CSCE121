@@ -1,0 +1,9 @@
+S X X X X X S
+W W W X W W W
+E X W X W X E
+W X X X X X W
+E W W W W W E
+X X X X X X X
+W W W X W W W
+X X X X X X X
+W S W W W S W

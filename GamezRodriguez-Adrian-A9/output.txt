@@ -1,0 +1,84 @@
+Maze tiles file: Maze5.txt
+
+ 0123
+0PWWE
+1XWXX
+2XWXW
+3XXXW
+Player 1 posiion :(0, 0)
+Move # 1---------------------
+
+rInvalid Move, Try again
+d 0123
+0SWWE
+1PWXX
+2XWXW
+3XXXW
+Player 1 posiion :(1, 0)
+Move # 3---------------------
+
+d 0123
+0SWWE
+1XWXX
+2PWXW
+3XXXW
+Player 1 posiion :(2, 0)
+Move # 4---------------------
+
+d 0123
+0SWWE
+1XWXX
+2XWXW
+3PXXW
+Player 1 posiion :(3, 0)
+Move # 5---------------------
+
+dInvalid Move, Try again
+dInvalid Move, Try again
+r 0123
+0SWWE
+1XWXX
+2XWXW
+3XPXW
+Player 1 posiion :(3, 1)
+Move # 8---------------------
+
+r 0123
+0SWWE
+1XWXX
+2XWXW
+3XXPW
+Player 1 posiion :(3, 2)
+Move # 9---------------------
+
+u 0123
+0SWWE
+1XWXX
+2XWPW
+3XXXW
+Player 1 posiion :(2, 2)
+Move # 10---------------------
+
+u 0123
+0SWWE
+1XWPX
+2XWXW
+3XXXW
+Player 1 posiion :(1, 2)
+Move # 11---------------------
+
+uInvalid Move, Try again
+r 0123
+0SWWE
+1XWXP
+2XWXW
+3XXXW
+Player 1 posiion :(1, 3)
+Move # 13---------------------
+
+u 0123
+0SWWP
+1XWXX
+2XWXW
+3XXXW
+Player 1 Won!
