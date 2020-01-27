@@ -3,9 +3,7 @@
 #include <algorithm>
 #include "std_lib_facilities.h"
 using namespace std;
-//Adrian Gamez-Rodriguez
-//UIN: 126009409
-//Trying to solve question 11. Turn all inputs into output with correct value.
+
 int main()
 {
 int pen;
