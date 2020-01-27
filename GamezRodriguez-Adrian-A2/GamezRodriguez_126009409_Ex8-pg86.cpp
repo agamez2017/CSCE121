@@ -3,9 +3,7 @@
 #include <algorithm>
 #include "std_lib_facilities.h"
 using namespace std;
-//Adrian Gamez-Rodriguez 
-//UIN : 126009409
-//Determines if the input integer is even or odd.
+
 int main()
 {
 	int a;
